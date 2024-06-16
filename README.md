@@ -16,9 +16,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML Icon"height="50">
+  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS Icon"  height="50">
+  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma Icon" height="50">
+  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD Icon" height="50">
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
 </div>
@@ -29,7 +36,7 @@
 
 <img align="right" src="https://media.giphy.com/media/SsCLe5ozI3C3wRHL9r/giphy.gif" width="300" alt="some cat" />
 
-Exploring, Experimenting, and Destroying. These I do on a regular basis. I'm interested in learning ☁️ technologies, with a sweet spot for Go!
+Exploring, Experimenting, and Destroying. These I do on a regular basis. I'm interested in learning ☁️ technologies, with a sweet spot for Java!
 
 Note: Most used languages doesn't indicate my skill level or something. It's a GitHub metric of which languages I have the most code on GitHub.
 
@@ -38,5 +45,4 @@ Note: Most used languages doesn't indicate my skill level or something. It's a G
   <img width="12" />
   <a href="mailto:snehalsal20@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <img width="12" />
-  <a href="https://discord.com/users/756564983512563956"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
 </div>
